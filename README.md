@@ -7,7 +7,7 @@ Built by Skyler Clark using:
 
 ## TSM UI Framework
 - BRAIN: Midnight Commander (mc)
-    - file management
+    - file/media management
 - HEART: Network Manager Text User Interface (nmtui)
     - network management
 - VITALS: Btop (btop++)
