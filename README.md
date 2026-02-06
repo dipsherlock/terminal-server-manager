@@ -1,8 +1,11 @@
 # TSM - Terminal Server Manager
 A menu-driven TUI for managing a home server.
 
-Built by Skyler Clark using: Textual (Python API)
+Built by Skyler Clark using: 
+- Python
+- Textual (Python API)
 
+## TSM UI Framework
 - BRAIN: Midnight Commander (mc)
     - file management
 - HEART: Network Manager Text User Interface (nmtui)
