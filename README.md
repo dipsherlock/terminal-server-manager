@@ -7,5 +7,3 @@ A menu-driven TUI for managing a home server.
     - network management
 - VITALS: Btop (btop++)
     - resource monitoring
-- SPINE: Tmux
-    - terminal multiplexer
