@@ -1,0 +1,26 @@
+Screen {
+    background: black;
+    color: white;
+}
+Header {
+    background: darkcyan;
+}
+Footer {
+    background: darkcyan;
+}
+ListView {
+    align: left top;
+    width: 30;
+    height: auto;
+    margin: 2 2;
+    background: blue;
+    border: double white;
+}
+ListView > ListItem.--highlight {
+    background: white;
+    color: blue;
+    text-style: bold;
+}
+Label {
+    padding: 1 2;
+}
